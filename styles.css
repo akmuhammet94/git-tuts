@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(241, 241, 236);
+}
+main {
+    padding: 40px;
+    background-color: #353535f6;
+    text-align: center;
+}
+h1 {
+    padding: 10px 0px;
+    color: white;
+}
+
+p {
+    color: white;
+    padding: 10px 0px;
+}
+a {
+    color: white;
+}
+a:hover {
+    color: rgb(60, 124, 197);
+    font-size: 16px;
+    transition: font-size 1s ease-in-out;
+}
