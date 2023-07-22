@@ -7,6 +7,10 @@
 body {
     background-color: rgb(241, 241, 236);
 }
+header {
+    background-color: #575656f6;
+    text-align: center;
+}
 main {
     padding: 40px;
     background-color: #353535f6;
